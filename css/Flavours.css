@@ -42,7 +42,7 @@ body {
     .header {
         padding: 80px; /* some padding */
         text-align: center; /* center the text*/
-        background-image:url(../bilder/pexels-ella-olsson-572949-1640777.jpg);
+        background-image:url(bilder/pexels-ella-olsson-572949-1640777.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
