@@ -40,13 +40,13 @@ body {
     }
 
     .header {
-        padding: 80px; /* some padding */
-        text-align: center; /* center the text*/
-        background-image:url(bilder/pexels-ella-olsson-572949-1640777.jpg);
+        padding: 80px; 
+        text-align: center; 
+        background-image:url(../bilder/pexels-ella-olsson-572949-1640777.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-        color: rgb(255, 255, 255); /* white text color */
+        color: rgb(255, 255, 255); 
         font-style: italic;
         font-family: 'Times New Roman', Times, serif;
         }
