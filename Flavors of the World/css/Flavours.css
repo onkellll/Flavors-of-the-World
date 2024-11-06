@@ -48,7 +48,6 @@ body {
         background-size: cover;
         color: rgb(255, 248, 246); 
         text-shadow: 2px 2px 4px #000000;
-        color: rgb(255, 255, 255); 
         font-style: italic;
         font-family: 'Times New Roman', Times, serif;
         }
@@ -122,6 +121,7 @@ transition: transform 0.3s ;
   background-color: #a98383;
   color: #f7f4f2;
 }
+
 
 * {
 
