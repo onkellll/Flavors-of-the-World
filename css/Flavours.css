@@ -40,13 +40,14 @@ body {
     }
 
     .header {
-        padding: 80px; /* some padding */
-        text-align: center; /* center the text*/
+        padding: 80px; 
+        text-align: center; 
         background-image:url(../bilder/pexels-ella-olsson-572949-1640777.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-        color: rgb(255, 255, 255); /* white text color */
+        color: rgb(255, 248, 246); 
+        text-shadow: 2px 2px 4px #000000;
         font-style: italic;
         font-family: 'Times New Roman', Times, serif;
         }
@@ -120,6 +121,7 @@ transition: transform 0.3s ;
   background-color: #a98383;
   color: #f7f4f2;
 }
+
 
 * {
 
@@ -218,6 +220,7 @@ transform: translateY(-20px);
   background: #060c21;
   transition: 0.5s;
 }
+
 
 .box:hover {
 
